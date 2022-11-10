@@ -12,7 +12,7 @@ In this project, I learned how to ulilize:
 * **Workbox**, a set of libraries that can generate a production-ready service worker for PWAs
 * `manifest.json` to make the app installable
 
-[Check out the deployed application here!]()
+[Check out the deployed application here!](https://frozen-tundra-88978.herokuapp.com/)
 
 ## Table of Contents
 
